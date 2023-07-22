@@ -10,6 +10,7 @@ With the help of this platform, all requests and offers come together in one pla
 All back-end (database, authentication) works in Firebase environment.
 
 You can find and play along with working test version here: https://car-park-dev.web.app/
+
 Database linked with the test version is isolated from the production, thus feel free with signing up, adding new posts, deleting, loging out and in and whatever else you want to test.
 
 In this repo Firebase config files have been removed. If you want to recreate working project, you must set up your own Firebase config (default location is src/firebase/init.js).
